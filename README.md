@@ -1,8 +1,8 @@
-##HinderBall
+## HinderBall
 
 详情移步：https://blog.csdn.net/wuchangi/article/details/81089342
 
-###一、项目功能
+### 一、项目功能
 
 1. 实现一款人机对战模式的小球拦阻休闲游戏，使得多个不同颜色（颜色随机）的小球以一定速度按先后顺序由静止状态朝不同方向运动，玩家通过手指触摸屏幕以控制自身的滑块阻挡迎面而来的小球，小球会撞击滑块而发生反弹。同时，电脑所控制的滑块也会自动阻挡玩家反弹回去的小球。其中，若玩家没能成功阻挡一个小球，则电脑积分加一分；反之，玩家积分加一分。最终，在不同的赛制下，根据双方对小球的阻挡情况判定胜负。
 
@@ -16,32 +16,37 @@
 
 ***
 
-
-###二、项目运行效果
+### 二、项目运行效果
 
 *虽然已经用上了PS修图/抠图等技术，但自我感觉还是很丑，UI设计还是要锻炼......*
 
 ####1. 游戏主菜单（主界面）
 
+<div align=center>
+
 <img src="https://github.com/Yuziquan/HinderBall/blob/master/Screenshots/main_menu.jpg" width=250 height=440 />
 
 <br/>
 
-####2. 游戏设置界面
+#### 2. 游戏设置界面
+
+<div align=center>
 
 <img src="https://github.com/Yuziquan/HinderBall/blob/master/Screenshots/game_settings.jpg" width=250 height=440 />
 
 <br/>
 
-####3. 游戏界面
+#### 3. 游戏界面
+
+<div align=center>
+
 <img src="https://github.com/Yuziquan/HinderBall/blob/master/Screenshots/playing.jpg" width=250 height=440 />
 
 <br/>
 
 ***
 
-
-###三、此项目的缺点
+### 三、此项目的缺点
 > * **UI设计**
 >
 >   此项上面也有提到，这里就不说了~~
