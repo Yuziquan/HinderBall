@@ -1,4 +1,6 @@
 ## HinderBall
+[![HinderBall](https://img.shields.io/badge/HinderBall-v1.0.0-brightgreen.svg)](https://github.com/Yuziquan/HinderBall)
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Yuziquan/HinderBall/blob/master/LICENSE)
 
 > 详情移步：https://blog.csdn.net/wuchangi/article/details/81089342
 
